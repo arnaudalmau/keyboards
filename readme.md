@@ -1,5 +1,5 @@
 # Introduction
-This is my personal repository (shared publicly) used to compile all my programmable keyboards' files, layouts, resources and whatnots I found useful.
+This is my personal repository (publicly shared) used to compile all my programmable keyboards' files, layouts, resources and whatnots I found useful.
 
 ## My Daily - BT60v2 by [Polarity Works](https://www.polarityworks.com/)
 Yet not fully open-sourced / QMK supported (this is ZMK based), this programmable Bluetooth PCB has all requisites to become an _endgame_ for anyone looking for a 60% keyboard.
