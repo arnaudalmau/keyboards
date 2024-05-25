@@ -1,7 +1,7 @@
 # Introduction
 This is my personal repository (publicly shared) used to compile all my programmable keyboards' files, layouts, resources and whatnots I found useful.
 
-## My Daily - BT60v2 by [Polarity Works](https://www.polarityworks.com/)
+## BT60v2 by [Polarity Works](https://www.polarityworks.com/)
 Yet not fully open-sourced / QMK supported (this is ZMK based), this programmable Bluetooth PCB has all requisites to become an _endgame_ for anyone looking for a 60% keyboard.
 Features: programmable (drag&drop, ZMK based), _unlimited_ layers (only limited by the board memory), hotswap available, ANSI/ISO options, backlight and RGB underglow, BLE with an _endless_ battery, standard GH60 layout.
 
@@ -27,7 +27,8 @@ Below you can find some keyboards I built using this PCB:
 ### Cons
 - Fairly fragile: some boards have suddenly died on me and no devices are able to recognize the board on Bluetooth mode (it still works using the cable though).
 
-## My previous Daily - OK60 (Chinese copy for the Satan60, which already was a Chinese copy for the GH60)
+## OK60
+<!-- (Chinese copy for the Satan60, which already was a Chinese copy for the GH60) -->
 (Work in progress)
 
 <!-- Pros: barat, usbC, backlight -->
