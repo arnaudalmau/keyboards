@@ -18,6 +18,7 @@ If you want to use this layout for your keyboard, upload [this file](https://git
 To flash it into your keyboard, just press the reset button (the keyboard must be plugged in using a cable; this doesn't work over Bluetooth) and the keyboard will connect to your computer as an external drive. Drag and drop the .uf2 file into it and the keyboard will automatically detect the new configuration, flash it and reboot with the new firmware applied.
 For the impatient, link to my precompiled .uf2 file [here](https://github.com/arnaudalmau/keyboards/blob/main/BT60v2%20-%20ZMK/ISO/keymap.uf2) (and [here](https://github.com/arnaudalmau/keyboards/blob/main/BT60v2%20-%20ZMK/ANSI/keymap.uf2) for ANSI; you can also work with my ANSI .json file [found here](https://github.com/arnaudalmau/keyboards/blob/main/BT60v2%20-%20ZMK/ANSI/bt60v2_ansi_v1.5.json) if that suits you better).
 Below you can find some keyboards I built using this PCB:
+(pending: add some images here)
 <!-- imatge meu bento + imatge alu case + fusta mir -->
 
 ### Pros
