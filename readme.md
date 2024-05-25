@@ -57,6 +57,7 @@ This is a budget option for someone looking for an ortholinear 40% keyboard (whi
 
 ### The layout and layers
 (TBA: layers' images)
+
 This keyboard is oriented to "ditch" the QWERTY layout and has a toggle key to switch between QWERTY and DVORAK (Spanish version). It also features a thorougly designed function row to minimise impact of the 40% format/layout, which forces an overuse of the function keys.
 Oddly enough, this keyboard is meant to be easily programmable using VIA, which has the option to import/export using .json format. I'm not sure if I'm doing something wrong, but when I export my configuration and then try to reimport it, VIA doesn't detect the file. The only way to program the keyboard is uploading [the original .json file](https://github.com/arnaudalmau/keyboards/blob/main/CST40%20-%20VIA/CSTC40-via.json) found on the KPrepublic website, which "triggers" VIA and allows programming. Good thing is that VIA loads the keyboard's onboard layouts instead of the ones found in the .json file. Don't know why, but it actually works ok for me.
 Image of the keyboard:
