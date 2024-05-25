@@ -36,7 +36,6 @@ Below you can find some keyboards I built using this PCB:
 
 ## OK60
 Being this a Chinese copy of the Satan60, which is already a Chinese copy of the GH60, this programmable PCB is your go-to if you're looking for a budget option which allows customization via QMK.
-(Work in progress)
 
 ### The layout and layers
 Same story as the BT60v2: inspired by the legendary KBC Poker v1, the layout mimicks its alphas' and function layer's configuration. It looks like this:
