@@ -7,7 +7,7 @@ Features: programmable (drag&drop, ZMK based), _unlimited_ layers (only limited 
 
 ### The layout and layers
 Partially mimicking the legendary KBC Poker in its function layer (arrows in the right shift cluster, F1-F12), the finished layout looks like this:
-![Layer0](https://github.com/arnaudalmau/keyboards/assets/141138848/569b8e13-58ea-43f7-b587-303b70e373bd)
+![Layer0](https://github.com/arnaudalmau/keyboards/assets/141138848/42e8b911-69c8-4e6b-9cdf-bd078b0ce7e8)
 Layer0
 
 ![Layer1](https://github.com/arnaudalmau/keyboards/assets/141138848/a3f8c643-7282-4702-8c93-f651d7551377)
