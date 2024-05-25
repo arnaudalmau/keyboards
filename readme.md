@@ -35,7 +35,7 @@ Below you can find some keyboards I built using this PCB:
 - Fairly fragile: some boards have suddenly died on me and no devices are able to recognize the board on Bluetooth mode (it still works using the cable though).
 
 ## OK60
-Being this a Chinese copy of the Satan60, which is already a Chinese copy of the GH60, this programmable PCB is the go-to option if you're looking for a budged option which allows customization via QMK.
+Being this a Chinese copy of the Satan60, which is already a Chinese copy of the GH60, this programmable PCB is your go-to if you're looking for a budged option which allows customization via QMK.
 (Work in progress)
 
 ### The layout and layers
