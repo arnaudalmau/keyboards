@@ -52,7 +52,7 @@ You can find the .json file [here](https://github.com/arnaudalmau/keyboards/blob
 ### Cons:
 - No Bluetooth (if you're into going cableless, that's a no-go for you)
 
-## CST40 by [KPrepublic](https://kprepublic.com/)
+## [CST40 by KPrepublic]([https://kprepublic.com/](https://kprepublic.com/products/cstc40-40-rgb-40-hot-swappable-mechanical-keyboard-pcb-programmed-qmk-via-vial-firmware-rgb-switch-underglow-type-c-planck))
 This is a budget option for someone looking for an ortholinear 40% keyboard (which mimicks the original Planck). Programmable using VIA, RGB, pretty straightforward configuration, offers the usual you can expect for these kind of keyboards.
 
 ### The layout and layers
