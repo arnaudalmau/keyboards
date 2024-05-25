@@ -35,8 +35,39 @@ Below you can find some keyboards I built using this PCB:
 - Fairly fragile: some boards have suddenly died on me and no devices are able to recognize the board on Bluetooth mode (it still works using the cable though).
 
 ## OK60
-<!-- (Chinese copy for the Satan60, which already was a Chinese copy for the GH60) -->
+Being this a Chinese copy of the Satan60, which is already a Chinese copy of the GH60, this programmable PCB is the go-to option if you're looking for a budged option which allows customization via QMK.
 (Work in progress)
 
-<!-- Pros: barat, usbC, backlight -->
-<!-- Cons: no té Bluetooth -->
+### The layout and layers
+Same story as the BT60v2: inspired by the legendary KBC Poker v1, the layout mimicks its alphas' and function layer's configuration. It looks like this:
+![Layer0+1](https://github.com/arnaudalmau/keyboards/assets/141138848/0f13c1a9-f242-4446-babb-0e63d1765b95)
+
+You can find the .json file [here](https://github.com/arnaudalmau/keyboards/blob/main/OK60%20-%20QMK/gh60_qmk_v4.json), which can be directly uploaded to the [QMK online configurator](https://config.qmk.fm/#/) (use the "Upload a QMK Keymap JSON file" next to the "KEYMAP.JSON" text). You can compile it online, edit it at will and download the .hex file afterwards. Again, for the impatient, there's a [precompiled hex file](https://github.com/arnaudalmau/keyboards/blob/main/OK60%20-%20QMK/gh60_satan_gh60_qmk_v4.hex) available. To flash this keyboard, press the reset button, which makes it enter DFU mode, and flash the new firmware using [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases).
+
+### Pros
+- Unexpensive
+- USB C
+- Backlight
+- Standard GH60 layout (easy to find keycaps; fits in any cases)
+
+### Cons:
+- No Bluetooth (if you're into going cableless, that's a no-go for you)
+
+## CST40 by [KPrepublic](https://kprepublic.com/)
+This is a budget option for someone looking for an ortholinear 40% keyboard (which mimicks the original Planck). Programmable using VIA, RGB, pretty straightforward configuration, offers the usual you can expect for these kind of keyboards.
+
+### The layout and layers
+(TBA: layers' images)
+This keyboard is oriented to "ditch" the QWERTY layout and has a toggle key to switch between QWERTY and DVORAK (Spanish version). It also features a thorougly designed function row to minimise impact of the 40% format/layout, which forces an overuse of the function keys.
+Oddly enough, this keyboard is meant to be easily programmable using VIA, which has the option to import/export using .json format. I'm not sure if I'm doing something wrong, but when I export my configuration and then try to reimport it, VIA doesn't detect the file. The only way to program the keyboard is uploading [the original .json file](https://github.com/arnaudalmau/keyboards/blob/main/CST40%20-%20VIA/CSTC40-via.json) found on the KPrepublic website, which "triggers" VIA and allows programming. Good thing is that VIA loads the keyboard's onboard layouts instead of the ones found in the .json file. Don't know why, but it actually works ok for me.
+Image of the keyboard:
+(TBA: image)
+
+### Pros
+- Cheap option for 40% ortho
+- Easily programmable
+- RGB backlight
+- Hotswap 
+
+### Cons
+- It's a 40% ortho (?). You know what you're getting into, right?
