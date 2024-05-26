@@ -60,7 +60,16 @@ You can find the .json file [here](https://github.com/arnaudalmau/keyboards/blob
 This is a budget option for someone looking for an ortholinear 40% keyboard (which mimicks the original Planck). Programmable using VIA, RGB, pretty straightforward configuration, offers the usual you can expect for these kind of keyboards.
 
 ### The layout and layers
-(TBA: layers' images)
+Inspired by the original Planck, the layout partially mimicks its distribution adapting it to my personal needs (accents for Catalan and letters like "ñ" or "ç"). It also features both QWERTY and DVORAK layouts, shown below:
+![Layer0-Planck](https://github.com/arnaudalmau/keyboards/assets/141138848/130601f1-adba-4af8-bb8c-0a9b57b866ee)
+[Layer0 (QWERTY)](http://www.keyboard-layout-editor.com/##@@_c=%238195d4&a:7%3B&=Esc&_c=%23cccccc%3B&=Q&=W&=E&=R&=T&=Y&=U&=I&=O&=P&_c=%238195d4%3B&=Back%20Space%3B&@_c=%23cccccc%3B&=Tab&=A&=S&=D&_c=%238195d4%3B&=F&_c=%23cccccc%3B&=G&=H&_c=%238195d4%3B&=J&_c=%23cccccc%3B&=K&=L&=%C3%91&=Enter%3B&@=Shift&=Z&=X&=C&=V&=B&=N&=M&_a:4%3B&=%2F%3B%0A,&=%2F:%0A.&=%2F_%0A-&_a:7%3B&=%C3%87%3B&@=Ctrl&=Win&=Alt&_c=%238195d4%3B&=DVO&_c=%23cccccc&a:4%3B&=%5E%0A%60%0A%0A%5B&_a:7&w:2%3B&=&_a:4%3B&=%C2%A8%0A%C2%B4%0A%0A%7B&_c=%238195d4&a:7%3B&=Fn&_c=%23cccccc%3B&=%2F&larr%2F%3B&=%2F&uarr%2F%3B&=%2F&rarr%2F)
+
+Missing:
+- Layer1 (QWERTY)
+- Layer0 (DVORAK)
+- Layer1 (DVORAK)
+
+
 
 This keyboard is oriented to "ditch" the QWERTY layout and has a toggle key to switch between QWERTY and DVORAK (Spanish version). It also features a thorougly designed function row to minimise impact of the 40% format/layout, which forces an overuse of the function keys.
 Oddly enough, this keyboard is meant to be easily programmable using VIA, which has the option to import/export using .json format. I'm not sure if I'm doing something wrong, but when I export my configuration and then try to reimport it, VIA doesn't detect the file. The only way to program the keyboard is uploading [the original .json file](https://github.com/arnaudalmau/keyboards/blob/main/CST40%20-%20VIA/CSTC40-via.json) found on the KPrepublic website, which "triggers" VIA and allows programming. Good thing is that VIA loads the keyboard's onboard layouts instead of the ones found in the .json file. Don't know why, but it actually works ok for me.
