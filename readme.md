@@ -1,7 +1,7 @@
 # Introduction
 This is my personal repository (publicly shared) used to compile all my programmable keyboards' files, layouts, resources and whatnots I found useful.
 
-## BT60v2 by [Polarity Works](https://www.polarityworks.com/)
+## BT60v2 by [Polarity Works](https://www.polarityworks.com/btckp)
 Yet not fully open-sourced / QMK supported (this is ZMK based), this programmable Bluetooth PCB has all requisites to become an _endgame_ for anyone looking for a 60% keyboard.
 Features: programmable (drag&drop, ZMK based), _unlimited_ layers (only limited by the board memory), hotswap available, ANSI/ISO options, backlight and RGB underglow, BLE with an _endless_ battery, standard GH60 layout.
 
@@ -56,7 +56,7 @@ You can find the .json file [here](https://github.com/arnaudalmau/keyboards/blob
 ### Cons:
 - No Bluetooth (if you're into going cableless, that's a no-go for you)
 
-## [CST40 by KPrepublic](https://kprepublic.com/products/cstc40-40-rgb-40-hot-swappable-mechanical-keyboard-pcb-programmed-qmk-via-vial-firmware-rgb-switch-underglow-type-c-planck)
+## CST40 by [KPrepublic](https://kprepublic.com/products/cstc40-40-rgb-40-hot-swappable-mechanical-keyboard-pcb-programmed-qmk-via-vial-firmware-rgb-switch-underglow-type-c-planck)
 This is a budget option for someone looking for an ortholinear 40% keyboard (which mimicks the original Planck). Programmable using VIA, RGB, pretty straightforward configuration, offers the usual you can expect for these kind of keyboards.
 
 ### The layout and layers
