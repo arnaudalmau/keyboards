@@ -17,10 +17,6 @@ Direct link to the layout with all layers can be found [here](http://www.keyboar
 If you want to use this layout for your keyboard, upload [this file](https://github.com/arnaudalmau/keyboards/blob/main/BT60v2%20-%20ZMK/ISO/bt60v2_iso_v1.8.json) to the [PolarityWorks keyboard editor](https://www.polarityworks.com/editor/index.html), edit it at will, compile it using the "Download Firmware" button (it can take a while to build the .uf2 file) and wait for the download.
 To flash it into your keyboard, just press the reset button (the keyboard must be plugged in using a cable; this doesn't work over Bluetooth) and the keyboard will connect to your computer as an external drive. Drag and drop the .uf2 file into it and the keyboard will automatically detect the new configuration, flash it and reboot with the new firmware applied.
 For the impatient, link to my precompiled .uf2 file [here](https://github.com/arnaudalmau/keyboards/blob/main/BT60v2%20-%20ZMK/ISO/keymap.uf2) (and [here](https://github.com/arnaudalmau/keyboards/blob/main/BT60v2%20-%20ZMK/ANSI/keymap.uf2) for ANSI; you can also work with my ANSI .json file [found here](https://github.com/arnaudalmau/keyboards/blob/main/BT60v2%20-%20ZMK/ANSI/bt60v2_ansi_v1.5.json) if that suits you better).
-Below you can find some keyboards I built using this PCB:
-
-(pending: add some images here)
-<!-- imatge meu bento + imatge alu case + fusta mir -->
 
 ### Pros
 - Programmable: drag&drop / UF2 bootloader.
@@ -74,9 +70,7 @@ Inspired by the original Planck, the layout partially mimicks its distribution a
 [Layer1 (DVORAK)](http://www.keyboard-layout-editor.com/##@@_c=%238195d4%3B&=%C2%AA%0A%C2%BA%0A%0A%5C&_c=%23cccccc&a:7%3B&=F1&=F2&=F3&=F10&=F11&=F12&=&=1&=2&=3&_c=%238195d4%3B&=Del%3B&@_c=%23a3a3a3%3B&=&_c=%23cccccc%3B&=F4&=F5&=F6&_c=%238195d4%3B&=&_c=%23cccccc%3B&=&=&_c=%238195d4%3B&=&_c=%23cccccc%3B&=4&=5&=6&_c=%23a3a3a3%3B&=%3B&@=&_c=%23cccccc%3B&=F7&=F8&=F9&=Next%20RGB&=RGB%20Hue+&=RGB%20Hue-&=Prev.%20RGB&=7&=8&=9&_c=%23a3a3a3%3B&=0%3B&@=%2F&larr%2F%3B&=%2F&uarr%2F%3B&=%2F&darr%2F%3B&_c=%238195d4%3B&=%2F&rarr%2F%3B&_c=%23a3a3a3%3B&=&_w:2%3B&=RGB%20Toggle&=&_c=%238195d4%3B&=&_c=%23a3a3a3%3B&=Media%20Prev.&=Media%20Play%20Pause&=Media%20Next)
 
 This keyboard is oriented to "ditch" the QWERTY layout and has a toggle key to switch between QWERTY and DVORAK (Spanish version) -- marked as "DVO" to turn on Dvorak and "QWE" to go back to Qwerty. It also features a thorougly designed function row to minimise impact of the 40% format/layout, which forces an overuse of the function keys.
-Oddly enough, this keyboard is meant to be easily programmable using VIA, which has the option to import/export using .json format. I'm not sure if I'm doing something wrong, but when I export my configuration and then try to reimport it, VIA doesn't detect the file. The only way to program the keyboard is uploading [the original .json file](https://github.com/arnaudalmau/keyboards/blob/main/CST40%20-%20VIA/CSTC40-via.json) found on the KPrepublic website, which "triggers" VIA and allows programming. Good thing is that VIA loads the keyboard's onboard layouts instead of the ones found in the .json file. Don't know why, but it actually works ok for me.
-Image of the keyboard:
-(TBA: image)
+Oddly enough, this keyboard is meant to be easily programmable using VIA, which has the option to import/export using .json format. I'm not sure if I'm doing something wrong, but when I export my configuration and then try to reimport it, VIA doesn't detect the file. The only way to program the keyboard is uploading [the original .json file](https://github.com/arnaudalmau/keyboards/blob/main/CST40%20-%20VIA/CSTC40-via.json) found on the KPrepublic website, which "triggers" VIA and allows programming. Good thing is that VIA loads the keyboard's onboard layouts instead of the ones found in the .json file. Don't know why, but it actually works ok for me. Another important aspect to keep in mind: this keyboard is only detected by VIA 1.3.1, wich is also included in the [/CST40 - VIA](https://github.com/arnaudalmau/keyboards/tree/main/CST40%20-%20VIA) folder.
 
 ### Pros
 - Cheap option for 40% ortho
