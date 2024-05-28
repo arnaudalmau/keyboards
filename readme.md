@@ -57,7 +57,7 @@ This is a budget option for someone looking for an ortholinear 40% keyboard (whi
 
 ### The layout and layers
 Inspired by the original Planck, the layout partially mimicks its distribution adapting it to my personal needs (accents for Catalan and letters like "ñ" or "ç"). It also features both QWERTY and DVORAK layouts, shown below:
-![Layer0-QWERTY](https://github.com/arnaudalmau/keyboards/assets/141138848/74c8deba-d9f5-4930-9a89-fff1fc0e235b)
+![Layer0-QWERTY](https://github.com/arnaudalmau/keyboards/assets/141138848/ab84d864-f158-4372-a917-18975d62796a)
 [Layer0 (QWERTY)](http://www.keyboard-layout-editor.com/##@@_a:7%3B&=Esc&=Q&=W&=E&=R&=T&=Y&=U&=I&=O&=P&=Back%20Space%3B&@=Tab&=A&=S&=D&=F&=G&=H&=J&=K&=L&=%C3%91&=Enter%3B&@=Shift&=Z&=X&=C&=V&=B&=N&=M&_a:4%3B&=%2F%3B%0A,&=%2F:%0A.&=%2F_%0A-&_a:7%3B&=%C3%87%3B&@=Ctrl&=Win&=Alt&=DVO&_a:4%3B&=%5E%0A%60%0A%0A%5B&_a:7&w:2%3B&=&_a:4%3B&=%C2%A8%0A%C2%B4%0A%0A%7B&_a:7%3B&=Fn&=&=&=)
 
 ![Layer1-QWE_DVO](https://github.com/arnaudalmau/keyboards/assets/141138848/b947a877-ca56-413e-9e0a-b1aa3ca63a6d)
