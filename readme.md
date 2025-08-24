@@ -79,4 +79,4 @@ Oddly enough, this keyboard is meant to be easily programmable using VIA, which 
 - Hotswap 
 
 ### Cons
-- It's a 40% ortho (?). You know what you're getting into, right?
+- It's a 40% ortho. You know what you're getting into, right?
