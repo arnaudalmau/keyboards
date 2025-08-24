@@ -35,6 +35,7 @@ Being this a Chinese copy of the Satan60, which is already a Chinese copy of the
 
 ### The layout and layers
 Same story as the BT60v2: inspired by the legendary KBC Poker v1, the layout mimicks its alphas' and function layer's configuration. It looks like this:
+
 ![Layer0](https://github.com/arnaudalmau/keyboards/assets/141138848/9a160e87-cea0-458c-9dfd-5b4229db1a56)
 [Layer0](http://www.keyboard-layout-editor.com/##@@_a:6%3B&=Esc&_a:4%3B&=!%0A1%0A%0A%7C&=%22%0A2%0A%0A%2F@&=%C2%B7%0A3%0A%0A%23&=$%0A4%0A%0A~&=%25%0A5&=%2F&%0A6%0A%0A%C2%AC&=%2F%2F%0A7&=(%0A8&=)%0A9&=%2F=%0A0&=%3F%0A'&=%C2%BF%0A%C2%A1&_a:7&w:2%3B&=Backspace%3B&@_a:6&w:1.5%3B&=Tab&_a:4%3B&=Q&=W&=E&=R&=T&=Y&=U&=I&=O&=P&=%5E%0A%60%0A%0A%5B&=*%0A+%0A%0A%5D&_x:0.25&a:7&w:1.25&h:2&w2:1.5&h2:1&x2:-0.25%3B&=Enter%3B&@_a:6&w:1.75%3B&=Caps%20Lock&_a:4%3B&=A&=S&=D&=F&=G&=H&=J&=K&=L&=%C3%91&=%C2%A8%0A%C2%B4%0A%0A%7B&=%C3%87%0A%0A%0A%7D%3B&@_a:6&w:1.25%3B&=Shift&_a:4%3B&=%3C%0A%3E&=Z&=X&=C&=V&=B&=N&=M&=%2F%3B%0A,&=%2F:%0A.&=%2F_%0A-&_a:7&w:2.75%3B&=%E2%86%91%3B&@_w:1.25%3B&=Ctrl&_w:1.25%3B&=Win&_w:1.25%3B&=Alt&_w:6.25%3B&=&_w:1.25%3B&=Fn&_w:1.25%3B&=%E2%86%90&_w:1.25%3B&=%E2%86%93&_w:1.25%3B&=%E2%86%92)
 
