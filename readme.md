@@ -87,5 +87,6 @@ The _ultimate_ DIY keyboard with endless combinations: through-hole design, one 
 
 ### The layout and layers
 Keeping this as standard as possible, both external sides are customizable with macros, Fs or anything you want. I added some interaction with the underglow on the left, cycling through effects with + and - keys, and added extra dedicated Pg Up and Pg Dn keys on each side. Left encoder controls volume; right encoder us used to scroll up/down like a mouse wheel.
-<img width="1073" height="412" alt="snap-75%" src="https://github.com/user-attachments/assets/c1382f9e-86fa-45c2-8bc5-6b22758dd7bd" />
+<img width="938" height="344" alt="snap-75%" src="https://github.com/user-attachments/assets/34f00d9c-9b50-49f1-88e2-0a482253ebd5" />
+
 
