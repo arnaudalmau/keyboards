@@ -83,3 +83,9 @@ Oddly enough, this keyboard is meant to be easily programmable using VIA, which 
 - It's a 40% ortho. You know what you're getting into, right?
 
 ## Snap by [Nullbits](https://nullbits.co/snap/)
+The _ultimate_ DIY keyboard with endless combinations: through-hole design, one or two rotary encoders, one or two OLED displays, optional speaker, TRRS connectors, RGB underglow, your MCU of choice, splitable, several layouts to chose from and QMK programmable. All in a 75% format. If you got the patience to make it hot-swap, it can become the _endgame_ split programmable keyboard. The official instructions are fine, but [KSO](https://www.youtube.com/watch?v=zd0gaJw4Wnw) has a great YouTube tutorial on how to build this.
+
+### The layout and layers
+Keeping this as standard as possible, both external sides are customizable with macros, Fs or anything you want. I added some interaction with the underglow on the left, cycling through effects with + and - keys, and added extra dedicated Pg Up and Pg Dn keys on each side. Left encoder controls volume; right encoder us used to scroll up/down like a mouse wheel.
+<img width="1073" height="412" alt="snap-75%" src="https://github.com/user-attachments/assets/c1382f9e-86fa-45c2-8bc5-6b22758dd7bd" />
+
